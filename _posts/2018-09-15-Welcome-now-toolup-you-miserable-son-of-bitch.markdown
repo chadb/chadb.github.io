@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome! Now Toolup You Miserable Son of Bitch"
+title:  "Welcome! Now Toolup You Miserable Son of a Bitch"
 date:   2018-09-15 16:22:07 -0400
 comments: true
 categories: ghdl
@@ -35,7 +35,7 @@ for editing so... let's get started.
   Ok head over to the [documentation for GHDL](https://ghdl.readthedocs.io/en/stable/about.html) 
   and checkout the [Quick Start Guide](https://ghdl.readthedocs.io/en/stable/using/QuickStartGuide.html)
   and let's compile the shit out of this thing. Put the following VHDL code in a
-  file called `hello_world.vhd`
+  file called `hello_world.vhd` or be lazy as hell and checkout my [lame git repo.](https://github.com/chadb/hello_world)
 
 ```vhdl
   --  Hello world program.

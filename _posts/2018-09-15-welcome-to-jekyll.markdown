@@ -5,9 +5,9 @@ date:   2018-09-15 16:22:07 -0400
 comments: true
 categories: ghdl
 ---
-## Our first job will be tooling up so I can compile and simulate VHDL.
+## Our first job will be tooling up so we can compile and simulate VHDL.
 
-While I teach for Doulos I can't afford the preferred tool of choice in the
+While I teach part-time for Doulos I can't afford the preferred tool of choice in the
 hardware world, [Modelsim](https://www.mentor.com/products/fv/modelsim/) so I'll
 be using [GHDL](https://github.com/ghdl/ghdl) an open source compiler and
 simulator for VHDL.  Another free choice is to use a Doulos sponsored product
